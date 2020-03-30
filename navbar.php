@@ -21,16 +21,13 @@
                         <a class="nav-link" href="index.php?content=progress">voortgang spel<span class="sr-only">(current)</span></a>
                     </li>
                 </ul>
-
-            </div>
-            </div>
-            <ul class="navbar-nav">
-                <li class="nav-item active ml-auto">
-                    <a class="nav-link" href="index.php?content=game">login<span class="sr-only">(current)</span></a>
-                </li>
-                <li class="nav-item active ">
-                    <a class="nav-link" href="index.php?content=progress">regristreer<span class="sr-only">(current)</span></a>
-                </li>
-            </ul>
+                <ul class="navbar-nav ml-auto">
+                    <li class="nav-item active ">
+                        <a class="nav-link" href="index.php?content=login">login<span class="sr-only">(current)</span></a>
+                    </li>
+                    <li class="nav-item active ">
+                        <a class="nav-link" href="index.php?content=register">regristreer<span class="sr-only">(current)</span></a>
+                    </li>
+                </ul>
             </div>
         </nav>

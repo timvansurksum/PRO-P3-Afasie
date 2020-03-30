@@ -1,9 +1,9 @@
 <div class="center2 display-4" style="background-color: rgb(36, 36, 36);">
     <div class="row">
-        <h2 class="col-6 font-weight-light">
+        <h2 class="col-12 col-sm-6 font-weight-light">
             Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor.
         </h2>
-        <div class="col-6">
+        <div class="col-12 col-sm-6">
             <img src="/image/afasieHomeImg.png" class="image-home" alt="">
         </div>
     </div>
